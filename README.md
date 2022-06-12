@@ -8,3 +8,5 @@ There are 2 R files:
 (ii) s_loan_empirical_2022_6_9.R which reads the .csv files and plots Figure 1 in the paper.
 
 In addition, there are several .csv files that are called by the R-code (ii). 
+
+Note: The files s_loan_2022_5_29.pdf and s_loan_2022_5_29.dfw are not related to the R-code. The PDF s_loan_2022_5_29.pdf provides all the algebraic derivations of all the equations in the paper (results, equilibrium values, and appendices). The file s_loan_2022_5_29.pdf is printed s_loan_2022_5_29.dfw which requires Derive for Windows software (symbolic algebra software). 
